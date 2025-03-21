@@ -1,2 +1,2 @@
 # ElectronCalculator
-using electron js to make a protable calculator
+using ElectronJS to make an application for a simple calculator
